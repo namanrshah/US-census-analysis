@@ -1,4 +1,4 @@
-package cs455.hadoop.uscensus;
+package proj.analysis.uscensus;
 
 import java.io.IOException;
 import java.util.ArrayList;
